@@ -1,4 +1,3 @@
-oven-orchestra
-==============
+##Oven Orchestra Recipe
 
-Orchestra extension boilerplate recipe
+Recipe I used for generating boilerplate codes when building with Orchestra Platform. For more info check out [Oven](https://github.com/elepunk/oven).
